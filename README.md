@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MelendrezErik
+- 👀 I’m interested in get feedback for programming and develope my carreer of Systems Engenier 
+- 🌱 I’m currently getting curses of Fullstack Back End with SQL, Mongo DB, Node.js, Python, JavaScript
+- 💞️ I’m looking to collaborate on development web app's or pages.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/erik-issac-melendrez-perez-823a34235?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZGUh9cUMRbmMiW1TCAUBAA%3D%3D)
